@@ -1,0 +1,1 @@
+This repository contains the implementation of a custom deep learning model (DK-C3TCN) for flood streamflow forecasting. It integrates data-driven learning with expert-informed knowledge by designing a custom loss function that emphasizes prediction accuracy around flood peaks and critical thresholds.
